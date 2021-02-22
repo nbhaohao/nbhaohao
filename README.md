@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, 这里是 zzh 👋
 
 <!--
 **nbhaohao/nbhaohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 成长中的前端开发
